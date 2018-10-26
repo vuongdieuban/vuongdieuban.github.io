@@ -120,6 +120,7 @@ a {
 }
 #projects .container .projectItem img {
   max-height: 100%;
+  max-width: 200px;
 }
 #projects .container .projectItem .description {
   max-width: 400px;

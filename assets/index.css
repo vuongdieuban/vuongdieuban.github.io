@@ -129,6 +129,7 @@ a {
   margin: 0 30px;
   display: flex;
   flex-direction: column;
+  font-size: 17px;
 }
 #projects .container .projectItem .description h2 {
   margin-top: 20px;
@@ -196,18 +197,21 @@ a {
   margin: 20px;
   height: 30%;
   align-items: center;
+  font-size: 18px;
 }
 
 #aboutMe .skills{
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  font-size: 18px;
 }
 
 #aboutMe .skills .software{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-size: 18px;
 }
 
 ul {
@@ -243,7 +247,7 @@ ul {
   /* Add a hover color */
 }
 
-.active {
+.icon-bar .active {
   background-color: lightgrey;
   /* Add an active/current color */
 }
